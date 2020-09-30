@@ -1,0 +1,3 @@
+/Users/tinthuzaraye/Desktop/Assignment-03-PartB/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/tinthuzaraye/Desktop/Assignment-03-PartB/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/tinthuzaraye/Desktop/Assignment-03-PartB/cmake-build-debug/CMakeFiles/Assignment_03_PartB.dir
